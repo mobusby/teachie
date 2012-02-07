@@ -1,0 +1,1 @@
+Teachie helps teachers keep track of every aspect of their work, including assignments, in-class activities, student accomplishments and struggles, etc.
